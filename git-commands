@@ -1,0 +1,18 @@
+git --version
+git init --> to intialize a local repo
+touch one.txt --> to create a file
+rm -rf one.txt --> to remove a file
+mkdir one --> to add a directory
+rmdir one --> to remove a directory
+ls --> to see the list
+git status --> to see the status of the staging areas
+git diff --> to see the diff of codes in the file 
+git commit "file name" -m "your msg"
+git branch --> to see the list of branches
+git branch "branch name" --> to create a branch name
+git checkout "branch name" --> to switch to another branch
+git checkout -d "branch name" --> to delete the branch
+git checkout -b "branch name" --> it created  a branch and checkouts to that particular branch.
+git add
+git add . --> to add more than 1 file
+git add *."ext" --> to add particular kind of files
