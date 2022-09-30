@@ -1,1 +1,3 @@
-# matrmony
+# Comand-script.bat file executes a simple command for opening different command line promt and executing different tasks. 
+# FullBattery.vbs is a small script which indicates a small notification when the battery excedes 95% and lower than 20%
+# TO run this u have to place the file in this particular directory (C:\Users\Yourname\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup) or press windows+r type shell:startup and paste the file there. Then the notification will work after you restart the system.
