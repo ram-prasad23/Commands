@@ -4,4 +4,4 @@ start  cmd /k "E: && cd E:\\Filename\\Filename\\Filename && nodemon app.js"
 start  cmd /k "E: && cd E:\\Filename\\Filename\\Filename && nodemon server.js"
 start  cmd /k "E: && cd E:\\Filename\\Filename\\frontend && npm start"
 
-::this is a script for starting all these servers in a single script
+::this is a script for starting all these servers in a single script with reactjs as frontend,middleware of routing. and nodejs as backend. mongodb as db.
